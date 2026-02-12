@@ -7,6 +7,12 @@
     <a href="https://www.linkedin.com/in/alexgaffen/">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://instagram.com/alexgaffen">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://alexgaffen.com">
+      <img src="https://img.shields.io/badge/Website-alexgaffen.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
   </p>
 </div>
 
@@ -16,14 +22,9 @@
 
 - 📫 How to reach me: **[alexgaffen.com](https://alexgaffen.com)**
 
-### Connect with me:
-<p align="left">
-<a href="https://alexgaffen.com" target="blank"><img align="center" src="https://img.shields.io/badge/Website-alexgaffen.com-blue?style=flat&logo=google-chrome&logoColor=white" alt="alexgaffen" /></a>
-</p>
-
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,go,py,js,react,tensorflow,gcp,git,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,go,py,js,react,html,css,tensorflow,opencv,linux,bash,gcp,git,vim&theme=dark" />
   </a>
 </p>
