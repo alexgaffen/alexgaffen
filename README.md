@@ -16,11 +16,11 @@
   </p>
 </div>
 
-- 🔭 I’m exploring the intersection of **AI** & **Cybersecurity**.
+- 🔭 I'm exploring the intersection of **AI** & **Cybersecurity**.
 
 - ⚡ Fun fact: When I'm not coding, I play the **Violin** in the **McMaster University Orchestra** 🎻
 
-- 📫 How to reach me: **[alexgaffen.com](https://alexgaffen.com)**
+- 📫 How to reach me: **[Connect with me on LinkedIn](https://www.linkedin.com/in/alexgaffen/)**
 
 ### Languages and Tools:
 <p align="left">
