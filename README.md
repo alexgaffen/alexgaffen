@@ -25,6 +25,6 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp,go,py,js,react,html,css,tensorflow,opencv,linux,bash,gcp,git,vim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,py,rust,r,js,react,html,css,nodejs,tensorflow,opencv,linux,bash,gcp,git,vim,docker,svelte,powershell,sqlite,replit,vscode,github,haskell,latex,flask,stackoverflow,visualstudio&theme=dark" />
   </a>
 </p>
