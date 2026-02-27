@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/alexgaffen/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/alexgaffen" target="_blank">
+    <a href="https://instagram.com/alex_gaffen" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://alexgaffen.com" target="_blank">
