@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Alex Gaffen</h1>
-  <h3>Passionate Honours Computer Science Student at McMaster University</h3>
+  <h3>Passionate Honours CS Co-op Student at McMaster University</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=alexgaffen&label=Profile%20views&color=blueviolet&style=flat" alt="alexgaffen" />
