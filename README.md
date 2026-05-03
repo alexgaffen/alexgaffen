@@ -15,7 +15,7 @@
 
 - 🔭 I'm exploring the intersection of **AI & Robotics** in **Medicine**, and also learning **Cybersecurity**.
 
-- ⚡ Fun fact: When I'm not coding, I play the **Violin** in the **McMaster University Orchestra** 🎻
+- ⚡ Fun fact: Aside from coding, I play the **Violin** in the **McMaster University Orchestra** 🎻
 
 - 📫 How to reach me: **<a href="https://www.linkedin.com/in/alexgaffen/" target="_blank">Connect with me on LinkedIn</a>**
 
