@@ -13,7 +13,7 @@
   </p>
 </div>
 
-- 🔭 I'm exploring the intersection of **AI** & **Cybersecurity**.
+- 🔭 I'm exploring the intersection of **AI & Robotics** in **Medicine**, and also learning **Cybersecurity**.
 
 - ⚡ Fun fact: When I'm not coding, I play the **Violin** in the **McMaster University Orchestra** 🎻
 
