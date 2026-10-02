@@ -37,8 +37,6 @@
   </tr>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
-
 <h3 align="center">🏆 Highlights</h3>
 
 | | |
@@ -47,8 +45,6 @@
 | 📄 **Applied AI Research** | Web-based AI tool built with a McMaster professor, with a **first-author manuscript** forthcoming |
 | 🤖 **Adaptron Inc.** | 8-month AI &amp; Robotics co-op in Ottawa, May to December 2026 |
 | 📜 **McMaster Honours** | Award of Excellence (Fall 2022), Dean's Honour List (Winter 2023) |
-
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -179,8 +175,6 @@ flowchart LR
   </tr>
 </table>
 
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
-
 <h3 align="center">🕹️ My Contributions, Arcade Edition</h3>
 
 <p align="center">
@@ -219,5 +213,4 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
