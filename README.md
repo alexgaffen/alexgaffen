@@ -48,18 +48,6 @@
 | 🤖 **Adaptron Inc.** | 8-month AI &amp; Robotics co-op in Ottawa, May to December 2026 |
 | 📜 **McMaster Honours** | Award of Excellence (Fall 2022), Dean's Honour List (Winter 2023) |
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Helvetica, Arial, sans-serif','cScale0':'#7A003C','cScaleLabel0':'#F3EAE0','cScale1':'#FDBF57','cScaleLabel1':'#1A0610','cScale2':'#C4577F','cScaleLabel2':'#1A0610','cScale3':'#7A003C','cScaleLabel3':'#F3EAE0','cScale4':'#FDBF57','cScaleLabel4':'#1A0610'}}}%%
-timeline
-    2022 : McMaster Award of Excellence
-    2023 : Dean's Honour List
-    2026 : Adaptron AI and Robotics co-op
-         : Polytechnique Montréal award selection
-         : First-author AI research manuscript
-    2027 : ICE Lab researcher
-    2028 : Graduation
-```
-
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
 <h3 align="center">🛠️ Tech Stack</h3>
