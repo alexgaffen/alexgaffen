@@ -204,13 +204,7 @@ flowchart LR
 
 <p align="center">
   🎻 McMaster Symphony Orchestra violinist &nbsp;·&nbsp; ⚽ Soccer and pickleball &nbsp;·&nbsp; 🏃 Training for a first half marathon
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
-</p>
+</p> <p align="center"> <a href="https://alexgaffen.com"><img src="https://img.shields.io/badge/alexgaffen.com-7A003C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: alexgaffen.com" /></a> <a href="https://www.linkedin.com/in/alexgaffen"><img src="https://img.shields.io/badge/LinkedIn-alexgaffen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: alexgaffen" /></a> <a href="mailto:gaffena@mcmaster.ca"><img src="https://img.shields.io/badge/gaffena@mcmaster.ca-FDBF57?style=for-the-badge&logo=gmail&logoColor=1A0610" alt="Email: gaffena@mcmaster.ca" /></a> </p>
 
 <p align="center">
 </p>
